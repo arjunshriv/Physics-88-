@@ -1,0 +1,8 @@
+Star,Temperature(K),Radius(Solar),Planet_Radius(Jupiter),Planet_Semi_Major_Axis(AU),Orbital_Inclination
+Kepler-4,5781,1.555,0.357,0.0456,89.76
+Kepler-5, 6297, 1.793, 1.426, 0.0538, 89.14
+Kepler-6, 5647, 1.391, 1.323, 0.04567, 86.8
+Kepler-7, 5933, 1.843, 1.478, 0.06224, 86.5
+Kepler-69, 5638, 0.93, 0.1998, 0.094, 89.62
+Kepler-56, 4973, 4.179, 7.833, 0.1652, 81.93 
+Kepler-66, 5962, 0.966, 0.250, 0.1352, 
